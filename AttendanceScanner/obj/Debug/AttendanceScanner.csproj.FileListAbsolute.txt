@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\bin\Debug\AttendanceScanner.exe.config
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\bin\Debug\AttendanceScanner.exe
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\bin\Debug\AttendanceScanner.pdb
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\obj\Debug\AttendanceScanner.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\obj\Debug\AttendanceScanner.Form1.resources
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\obj\Debug\AttendanceScanner.Properties.Resources.resources
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\obj\Debug\AttendanceScanner.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\obj\Debug\AttendanceScanner.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\obj\Debug\AttendanceScanner.exe
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\obj\Debug\AttendanceScanner.pdb
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\obj\Debug\AttendanceScanner.AdminIndex.resources
+C:\Users\admin\source\repos\AttendanceScanner\AttendanceScanner\obj\Debug\AttendanceScanner.AdminLogin.resources
